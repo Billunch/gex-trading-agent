@@ -1,4 +1,0 @@
-import os
-
-ALPACA_API_KEY = os.getenv("PKH4J302ABVZ1K7V60J0")
-ALPACA_SECRET_KEY = os.getenv("1NASos14HvKPIIf5nNovL6lUHBWzyPaX9rnKe1Rj")
