@@ -3,3 +3,4 @@ yfinance
 backtrader
 alpaca-trade-api==2.3.0
 alpha_vantage==2.3.1
+aiohttp>=3.8.5
