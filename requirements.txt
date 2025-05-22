@@ -1,0 +1,4 @@
+flask
+yfinance
+backtrader
+alpaca-trade-api
