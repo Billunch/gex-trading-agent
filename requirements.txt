@@ -1,5 +1,5 @@
 flask
 yfinance
 backtrader
-alpaca-trade-api==2.3.2
+alpaca-trade-api==2.3.0
 alpha_vantage==2.3.1
